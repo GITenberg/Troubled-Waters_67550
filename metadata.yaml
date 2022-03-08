@@ -1,0 +1,31 @@
+_repo: Troubled-Waters_67550
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Bertrand W.
+    aliases:
+    - Sinclair, William Brown
+    - Sinclair, Bill
+    - Sinclair, Bertrand William
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '3891'
+    url: http://www.gutenberg.org/2009/agents/3891
+    wikipedia: https://en.wikipedia.org/wiki/Bertrand_William_Sinclair
+description: ''
+gutenberg_issued: '2022-03-03'
+identifiers:
+  gutenberg: '67550'
+language: en
+pgterms:marc905: 20220212141913sinclair
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark.
+publication_note: United States :Street & Smith Corporation,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Troubled Waters
+url: http://www.gutenberg.org/ebooks/67550
